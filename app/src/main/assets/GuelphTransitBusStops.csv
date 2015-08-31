@@ -1,0 +1,755 @@
+stop_id,stop_name,stop_lat,stop_lon,wheelchair_boarding
+100,University Centre,43.529524,-80.224506,1
+101,Gordon St. at Stone Rd. W.,43.52626945,-80.22415709,2
+102,Gordon St. at Harvard Rd.,43.52543939,-80.22119936,1
+103,Gordon St. at Kortright Rd.,43.52231132,-80.21336661,2
+104,Gordon St. at Harts Lane,43.51953569,-80.2077554,1
+105,1155 Gordon St.,43.51812087,-80.20568389,1
+106,Gordon St. at Edinburgh Rd. S.,43.51656066,-80.20354457,1
+107,Edinburgh Rd. S. at Carrington Dr.,43.51363307,-80.2067336,1
+108,Edinburgh Rd. S. at Rickson Ave.,43.51160739,-80.20942402,2
+109,Edinburgh Rd. S. at Ginger Crt.,43.51109474,-80.21358161,1
+110,Edinburgh Rd. S. at Rogers Rd.,43.51261601,-80.21863199,1
+111,Edinburgh Rd. S. at Koch Dr.,43.51611134,-80.22598458,1
+112,Edinburgh Rd. S. at Laurelwood Crt.,43.51753238,-80.23049907,1
+113,Stone Rd. W. at Stone Road Mall,43.5174938,-80.23717685,1
+114,Stone Rd.W. at Scottsdale Dr.,43.51588914,-80.23936189,1
+115,181 Janefield Ave.,43.51752311,-80.2448343,1
+116,53 Janefield Ave.,43.51902721,-80.24693715,2
+117,264 College Ave. W.,43.5220061,-80.24614584,1
+118,College Ave. W. at Meadowcroft,43.52428096,-80.24304162,1
+119,50 College Ave. W.,43.52963393,-80.23577251,1
+120,College Ave. E. at MacDonald St.,43.5335313,-80.23048298,1
+121,East Ring Rd. at Dundas Lane,43.53504997,-80.22489431,1
+122,East Ring Rd. at Arboretum Rd. ,43.53324007,-80.2223514,1
+123,University Centre Arrival,43.52975023,-80.22473879,1
+150,University Centre,43.529524,-80.224506,1
+151,East Ring Rd. at Arboretum Rd.,43.533414,-80.222235,1
+152,East Ring Rd. at Dundas Lane,43.535071,-80.224477,1
+153,College Ave. E. at MacDonald St.,43.534115,-80.229942,1
+154,College Ave. W. at Caledonia St.,43.529727,-80.235897,1
+155,College Ave. W. at Edinburgh Rd.,43.525349,-80.241837,2
+156,College Ave. W. at Centennial,43.521571,-80.247137,1
+157,129 Janefield Ave.,43.517868,-80.245637,1
+158,Janefield Ave. at Scottsdale Dr.,43.516872,-80.240944,2
+159,Stone Rd. W. at Scottsdale Dr. ,43.516108,-80.238548,1
+160,372 Stone Rd. W.,43.517578,-80.236634,1
+161,292 Stone Rd. W.,43.519475,-80.234214,1
+162,583 Edinburgh Rd. S.,43.516543,-80.229338,2
+163,685 Edinburgh Rd. S.,43.515674,-80.223705,1
+164,777 Edinburgh Rd. S.,43.512606,-80.218928,1
+165,Edinburgh  Rd. S. at Southcreek Trail,43.510979,-80.213604,1
+166,Edinburgh Rd. S. at Rickson Ave.,43.51155,-80.209314,1
+167,Edinburgh Rd. S. at Carrington Dr.,43.513666,-80.206367,1
+168,Gordon St. at Valley Rd.,43.516653,-80.203242,1
+169,Gordon St. at Landsdown Dr.,43.518854,-80.205813,1
+170,Gordon St. at Harts Lane,43.519609,-80.207455,1
+171,1030 Gordon St.,43.520895,-80.210036,1
+172,Gordon St. at Kortright Rd.,43.522721,-80.213719,1
+173,Gordon St. at Hands Dr.,43.524266,-80.216865,1
+174,Gordon St. at Monticello Cres.,43.525832,-80.221814,1
+175,University Centre,43.529524,-80.224506,1
+200,Guelph Central Station,43.54586918,-80.24521697,1
+201,Wellington St. at KFC,43.54227848,-80.24397492,1
+202,Gordon St. at Water St.,43.53830212,-80.24137816,1
+203,Gordon St. at Forbes Ave.,43.53714454,-80.23977796,1
+204,Gordon St. at Dean Ave.,43.53404471,-80.2354543,1
+205,Gordon St. at College Ave.,43.53148424,-80.23187983,1
+206,University Centre Depart,43.52998051,-80.22505414,1
+207,Stone Rd. W. at Edinburgh Rd. S.,43.52036554,-80.23335318,1
+208,Stone Rd. W. at Stone Rd Mall,43.51749477,-80.2372089,1
+209,659 Wellington St. W. ,43.52282634,-80.26765837,1
+210,Fife Rd. at Wellington St. W.,43.51890111,-80.26887011,1
+211,Fife Rd. at Gateway Dr.,43.51565824,-80.27323752,1
+212,Fife Rd. at Deerfield Pl.,43.51392059,-80.27559786,1
+213,Elmira Rd. at West Acres Dr.,43.51624786,-80.27862856,1
+214,254 Elmira Rd.,43.51897202,-80.28211234,1
+215,Elmira Rd. at Stephanie Dr.,43.52110476,-80.28735569,1
+216,Elmira Rd. at Zehrs Depart,43.52212001,-80.28976881,1
+217,Elmira Rd. at West End Community Centre,43.52371059,-80.29372413,2
+218,Willow Rd. at Flaherty Dr.,43.52734427,-80.29684473,1
+219,Imperial Rd. N. at Willow Rd.,43.52880279,-80.29203002,2
+220,Imperial Rd. N. at Dunhill Cres.,43.53171624,-80.29415235,2
+221,Imperial Rd. N. at Westwood Rd.,43.53499964,-80.29467658,2
+222,Imperial Rd. N. at Speedvale Ave. W.,43.53698496,-80.29654347,2
+223,ARC Industries Depart,43.54012509,-80.29423134,2
+224,Royal Rd. at Massey Rd. (Guelph Tool),43.54281107,-80.29796366,2
+225,Massey Rd. at Imperial Rd.,43.54094579,-80.3017213,2
+226,Imperial Rd. N. at Woodlawn Rd. W.,43.54359439,-80.30570484,2
+227,Woodlawn Rd. W. at Royal Rd.,43.54594061,-80.30346622,2
+228,Woodlawn Rd. W. at Regal Rd.,43.54881166,-80.29952123,2
+229,Woodlawn Rd. W. at Silvercreek Pkwy N,43.55192134,-80.29534182,2
+230,Woodlawn Rd. W. at Dawson Rd.,43.5561003,-80.28966928,2
+231,Woodlawn Rd. W. at Edinburgh Rd. N.,43.55856547,-80.28622387,2
+232,Woodlawn Rd. W. at Nicklin Rd.,43.56040262,-80.28361099,2
+233,Woodlawn at Wal-Mart,43.56435923,-80.27812212,2
+234,Woolwich St. at Marilyn Dr.,43.56209742,-80.27350158,2
+235,Woolwich St. at Evergreen,43.56003659,-80.27067847,2
+236,Woolwich St. at Mac Ave.,43.55682964,-80.26627541,2
+237,Woolwich St. at Tiffany St.,43.55250892,-80.26027596,2
+238,Woolwich St. at London Rd.,43.54996503,-80.25682826,2
+239,160 Woolwich St.,43.54799724,-80.25153955,2
+240,Wyndham at IF Shoe Store,43.54556449,-80.24899183,2
+241,Guelph Central Station,43.54518,-80.24605,2
+250,Guelph Central Station,43.54585854,-80.24540669,2
+251,Wyndham St. at Bank of Nova Scotia,43.5463134,-80.24935893,1
+252,Woolwich St. at Cardigan St.,43.54827181,-80.25193855,2
+253,Woolwich St. at Norwich St.,43.54878188,-80.25496041,2
+254,Woolwich St. at London Rd.,43.55012273,-80.25667532,2
+255,Woolwich St. at Kerr St. ,43.55185622,-80.25911065,2
+256,Woolwich St. at Powell St.,43.55313981,-80.26082839,2
+257,Woolwich St. at Earl St.,43.55595288,-80.26475949,2
+258,Woolwich St. at Speedvale Ave. ,43.55806489,-80.26762378,2
+259,Woolwich St. at Evergreen,43.56018289,-80.2705642,2
+260,Woolwich St. at Marilyn Dr.,43.56250568,-80.273732,2
+261,Woodlawn at Wal-Mart,43.56374361,-80.27933394,2
+262,Woodlawn Rd. W. at Nicklin Rd.,43.56108172,-80.28302241,2
+263,Woodlawn Rd. W. at Edinburgh Rd. N.,43.55851558,-80.28662941,2
+264,Woodlawn Rd. W. at Dawson Rd.,43.5568369,-80.28894939,2
+265,Woodlawn Rd. W. at Arrow Rd.,43.55406768,-80.29279422,2
+266,Woodlawn Rd. W. at Silvercreek Pkwy. N.,43.55169782,-80.29604614,2
+267,Woodlawn Rd. W. at Regal Rd.,43.54873901,-80.30004244,2
+268,Woodlawn Rd. W. at Royal Rd.,43.54640382,-80.30324809,2
+269,Imperial Rd. N. at Woodlawn Rd. W.,43.543505,-80.3058614,2
+270,Massey Rd. at Imperial Rd. N.,43.54086203,-80.301568,2
+271,Royal Rd. at Massey Rd.,43.54288425,-80.29842034,2
+272,Royal at ARC Industries,43.53993893,-80.29428877,2
+273,Imperial Rd. N. at Speedvale Ave. W.,43.53662079,-80.29633052,2
+274,Imperial Rd. N. at Thornhill Dr.,43.53418587,-80.29473351,2
+275,Imperial Rd. N. at Kipling Ave.,43.53080985,-80.29421426,2
+276,Imperial Rd. N. at Willow Rd. ,43.52870212,-80.29221757,2
+277,Willow Rd. at Flaherty Dr. ,43.5276593,-80.29653708,1
+278,Elmira Rd. at West End Community Centre,43.5235597,-80.29394825,2
+279,Elmira Rd.at Paisley Depart,43.52174703,-80.28952016,1
+280,Elmira Rd. at Fresh Meadow Way,43.51968716,-80.28433403,2
+281,Elmira Rd. at Rochelle Dr.,43.51789991,-80.28062098,1
+282,Fife Rd. at Elmira Rd.,43.51391926,-80.27530195,2
+283,Fife Rd. at Gateway Dr.,43.51543824,-80.27322278,2
+284,26 Fife Rd. at Coop,43.51777462,-80.27005621,1
+285,Wellington St. W. at Wastewater Treatment Plant,43.52286522,-80.26725444,1
+286,Stone Rd. W. at Scottsdale Dr. ,43.51534817,-80.23966684,2
+287,372 Stone Rd. W.,43.51759228,-80.23664599,2
+288,292 Stone Rd. W.,43.51946308,-80.23417104,2
+289,Stone Rd. opposite Target,43.52163401,-80.2312634,2
+290,95 Stone Rd. W.,43.52467,-80.22718783,2
+291,University Centre Depart,43.53019248,-80.2252942,2
+292,Gordon St. at Vet College,43.53095026,-80.23076282,2
+293,Gordon St. at Macdonald Stewart Art Centre,43.5328315,-80.23327307,2
+294,Gordon St. at Dormie Lane,43.53689754,-80.2391756,2
+295,Gordon St. at Water St.,43.53814637,-80.24089812,2
+296,Wellington St. at Wellington Plaza ,43.54171837,-80.24395024,1
+297,Wyndham St. at Fountain St.,43.54337642,-80.24517812,1
+298,Guelph Central Station,43.545892,-80.24902,2
+300,Guelph Central Station,43.54588963,-80.24523782,1
+301,Wyndham St. at Bank of Nova Scotia,43.54632194,-80.24935963,1
+302,Woolwich St. at Cardigan St.,43.54827406,-80.25192178,1
+303,Suffolk St. at Norfolk St. ,43.54735915,-80.25498238,1
+304,Suffolk St. at Dublin St.,43.54641957,-80.25678685,1
+305,Suffolk St. at Glasgow St.,43.54555216,-80.25846998,1
+306,Yorkshire St. N. at London Rd. W.,43.54644009,-80.26173657,2
+307,Westmount Rd. at Lourdes ,43.54814269,-80.2669521,1
+308,Westmount Rd. at Division St.,43.549901,-80.26931808,1
+309,St. Joseph's Health Centre,43.55129818,-80.27132152,1
+310,Westmount Rd. at Speedvale Ave. W.,43.55345503,-80.27424972,1
+311,Kathleen St. at June Ave.,43.55627418,-80.27335357,1
+312,Bailey Ave. at Nicklin Rd.,43.55677486,-80.27715712,1
+313,Nicklin Rd. at Woodlawn Rd. Depart,43.56063432,-80.28300115,2
+314,Woodlawn at Wal-Mart,43.56436112,-80.27811853,1
+315,21 Woodlawn Rd. E. ,43.56641354,-80.2754386,1
+316,Woodlawn Rd. E. at opposite Seniors Centre,43.56931004,-80.27141825,1
+317,Woodlawn Rd. E. at Fairway Lane,43.57203178,-80.26766718,1
+318,Woodlawn Rd. E. at Golfview Dr.,43.57398601,-80.26494105,1
+319,Inverness Dr. at Glenbrook Dr.,43.57703702,-80.2636908,1
+320,Inverness Dr. at Simmonds Dr.,43.57921301,-80.26674597,2
+321,Victoria Rd. N. at Trillium Waldorf,43.58037659,-80.26381678,2
+322,Victoria Rd. N. at Woodlawn Rd. E.,43.57805161,-80.260512,1
+323,Victoria Rd. N . at Delta St. ,43.57404538,-80.25495464,1
+324,Victoria Rd. N. at Speedvale Ave. E.,43.5705917,-80.25019862,2
+325,Victoria Rd. N. at Eramosa Rd.,43.56917506,-80.24829333,1
+326,Victoria Rd. N. at St. Paul's Church,43.56648791,-80.24447481,1
+327,Eastview Rd. at Glenburnie Dr. Depart,43.56535129,-80.24126881,2
+328,Eastview Rd. at Mountford Dr.,43.56738132,-80.23846239,1
+329,Eastview Rd. at Auden Rd.,43.56950615,-80.2355681,1
+330,Eastview Rd. at Summit Ridge Dr.,43.57254913,-80.23143094,1
+331,Watson Pkwy N. at Grange Rd.,43.57324163,-80.21767526,1
+332,Watson Pkwy N. at Fleming Rd.,43.57048738,-80.21385504,2
+333,Watson Pkwy N. at Library,43.56672945,-80.21174647,1
+334,York Rd. At Watson Pkwy N.,43.56151508,-80.21083086,2
+335,York Rd. at Yorkhaven Pl.,43.55847904,-80.21503668,2
+336,York Rd. at Royal City Jaycees Park,43.55703153,-80.2170014,2
+337,York Rd. at Beaumont Cres.,43.55493318,-80.219906,2
+338,Victoria Rd. at York Rd. ,43.55165761,-80.22363281,2
+339,Stone Rd. E. at Victoria Rd. S.,43.5393639,-80.20797407,2
+340,Stone Rd. E. at Arbour Medical Centre,43.53376618,-80.21534578,2
+341,University Centre,43.53009962,-80.22521736,1
+342,Gordon St. at Vet College,43.53095206,-80.23076037,1
+343,Gordon St. at Macdonald Stewart Art Centre,43.5328315,-80.23327307,1
+344,Gordon St. at Dormie Lane,43.53690628,-80.23917203,1
+345,Gordon St. at Water St.,43.53814273,-80.24089687,1
+347,Wellington St. at Wellington Plaza ,43.54191368,-80.24387314,1
+349,Guelph Central Station,43.54618511,-80.24518746,1
+350,Guelph Central Station,43.54518,-80.24605,1
+351,Gordon St. at Nottingham St.,43.54181645,-80.24807426,1
+352,Gordon St. at Wellington St.,43.5407945,-80.24521582,1
+353,Gordon St. at Water St.,43.53829806,-80.24138341,1
+354,Gordon St. at Forbes Ave.,43.5371424,-80.23977642,1
+355,Gordon St. at Dean Ave.,43.53405552,-80.23546094,1
+356,Gordon St. at College Ave.,43.53149062,-80.23188958,1
+357,University Centre,43.52986705,-80.22490356,1
+358,Stone Rd. E. at Arbour Medical Centre,43.53308588,-80.2159721,2
+359,Victoria Rd. S. at Stone Rd. E.,43.54040329,-80.2076034,2
+360,535 York Rd. at Tim Hortons,43.55224273,-80.22329258,1
+361,York Rd. at Beaumont Cres.,43.55465823,-80.2198908,2
+362,728 York Rd.,43.55686926,-80.21685914,2
+363,785 York Rd.,43.55871227,-80.21445106,2
+364,York Rd. At Watson Pkwy. N.,43.56153735,-80.21054585,2
+365,Watson Pkwy. N. opposite Library,43.56659343,-80.21149822,2
+366,Watson Pkwy. N. at Fleming Rd.,43.57032628,-80.21329903,1
+367,Watson Pkwy. N. at Grange Rd.,43.57396404,-80.21836101,1
+368,Watson Pkwy. N. at  Eastview Rd.,43.57672134,-80.22218691,1
+369,Eastview Rd. at Summit Ridge Dr.,43.57266797,-80.23156517,2
+370,Eastview Rd. at Starwood Dr.,43.57030257,-80.23481553,1
+371,Eastview Rd. at Mountford Dr.,43.56752915,-80.23857616,2
+372,Eastview Rd. at Victoria Rd.,43.56509445,-80.24190758,2
+373,211 Victoria Rd. N.,43.56695627,-80.24477988,1
+374,Victoria Rd. N. at Eramosa Rd.,43.56967223,-80.24861837,1
+375,Victoria Rd. N. at Speedvale Ave. E.,43.57198644,-80.25179437,1
+376,Victoria Rd. N. at Brant Ave.,43.57534328,-80.25639104,1
+377,Victoria Rd. N. at Woodlawn Rd. E.,43.57833091,-80.26053732,1
+378,Victoria Rd. N. opposite Trillium Waldorf,43.58054283,-80.2636196,1
+379,Inverness Dr. at Wilton Rd.,43.57916601,-80.26688743,1
+380,Inverness Dr. at Woodlawn Rd.,43.57621286,-80.26244869,1
+381,Woodlawn Rd. E. at Golfview Dr.,43.57403099,-80.26512597,1
+382,Woodlawn Rd. E. at Country Club Dr.,43.57181333,-80.26825202,1
+383,Woodlawn Rd. E. at Riverside Glen,43.56858842,-80.27273987,1
+384,Woodlawn Rd. E. at Canadian Tire Dep,43.56598118,-80.27634094,1
+385,Woodlawn at Wal-Mart,43.56376393,-80.27934691,1
+386,Nicklin Rd. at Burns Dr.,43.5582593,-80.27992654,1
+387,Bailey Ave. at Kathleen St.,43.55730961,-80.27620776,1
+388,Kathleen St. at Speedvale Ave. W.,43.55563348,-80.27265691,2
+389,Westmount Rd. at Kimberley Dr.,43.55325356,-80.27423546,1
+390,St. Joseph's Health Centre,43.55164859,-80.27202849,1
+391,Westmount Rd. at Division St.,43.54978097,-80.26956954,1
+392,Westmount Rd. at Lourdes,43.54861678,-80.26792589,1
+393,Westmount Rd. at London Rd. W.,43.54546957,-80.26344416,1
+394,Yorkshire St. N. at Home St. ,43.54550459,-80.26107641,2
+395,Suffolk St. at Glasgow St.,43.5453669,-80.2585925,1
+396,Suffolk St. at Dublin St. Church,43.54633406,-80.256689,1
+397,160 Woolwich St.,43.54799862,-80.25159619,2
+398,Wyndham at IF Shoe Store,43.54554544,-80.24898055,1
+399,Guelph Central Station,43.54572821,-80.24534288,1
+400,Guelph Central Station,43.54582712,-80.24580414,1
+401,Neeve St. at Ontario St.,43.54413676,-80.24097264,1
+402,Ontario St at Manitoba St.,43.54470417,-80.23730491,1
+403,168 Ontario St.,43.54520196,-80.23469665,1
+404,Ontario St. at York Rd.,43.54552549,-80.23274047,1
+405,York Rd. at Morris St.,43.54671213,-80.23080247,1
+406,York Rd. at Brockville Ave.,43.54913612,-80.22756837,1
+407,York Rd. at Audrey Ave.,43.55078627,-80.22533313,1
+408,535 York Rd. at Tim Hortons,43.55223214,-80.22329365,1
+409,York Rd. at Beaumont Cres.,43.55458284,-80.22014686,2
+410,728 York Rd.,43.55693523,-80.21688324,2
+411,895 York Rd.,43.55872643,-80.21438384,2
+412,York Rd. at Watson Pkwy. N.,43.56153565,-80.21054688,2
+413,York Rd. at Graniteworx,43.56350386,-80.20788965,2
+414,Watson Rd. S. at York Rd.,43.56449176,-80.20546404,2
+415,Watson Rd. S. at Airpark Pl.,43.56243048,-80.20258634,2
+416,Watson Rd. S. at Guelph Transit Centre,43.5605435,-80.19994552,2
+417,Watson Pkwy. S. at Dunlop Dr.,43.55799165,-80.19896715,2
+418,Watson Pkwy. S. at Cargill ,43.55905022,-80.20286232,2
+419,Watson Pkwy. S. at Taggert St.,43.56028046,-80.20619722,2
+420,York Rd. at Watson Pkwy. N.,43.56151064,-80.21082655,2
+421,York Rd. at Yorkhaven Pl..,43.55847725,-80.21503684,2
+422,York Rd. at Royal City Jaycees Park,43.55703595,-80.21700185,2
+423,York Rd. at Beaumont Cres.,43.55493605,-80.21990711,2
+424,York Rd. at Victoria Rd.,43.55154516,-80.22455892,1
+425,York Rd. at Brockville Ave.,43.54905218,-80.22787225,1
+426,York Rd. at Harris St.,43.54753114,-80.22995403,1
+427,Ontario St. at Huron St. ,43.5456181,-80.23307566,1
+428,70 Ontario St.,43.54485745,-80.23718307,1
+429,Ontario St. at Neeve St.,43.54426392,-80.2402114,1
+430,Guelph Central Station,43.54518,-80.24605,1
+431,Watson Pkwy. S. at Col. John McCrae Legion,43.560934,-80.207705,1
+500,Guelph Central Station,43.54587488,-80.24523142,2
+501,Gordon St. at Nottingham St.,43.54181004,-80.24808288,1
+502,Gordon St. at Wellington St.,43.54083202,-80.24532022,2
+503,Gordon St. at Water St.,43.53830596,-80.24139222,1
+504,Gordon St. at Forbes Ave.,43.53717657,-80.23981277,1
+505,Gordon St. at Dean Ave.,43.53410591,-80.23554622,1
+506,Gordon St. at College Ave.,43.5314409,-80.23176375,1
+507,University Centre,43.5290383,-80.22370586,1
+508,Gordon St. at Stone Rd. W.,43.52733637,-80.2261214,1
+509,Gordon St. at Harvard Rd. ,43.52544175,-80.22118988,1
+510,Gordon St. at Kortright Rd. ,43.52231123,-80.21337044,2
+511,Gordon St. at Harts Lane,43.51953569,-80.2077554,1
+512,1155 Gordon St. ,43.51812092,-80.20568436,1
+513,Gordon St. at Edinburgh Rd. S.,43.51656066,-80.20354474,1
+514,Arkell Rd. at Gordon St. ,43.51420796,-80.19864358,1
+515,Arkell Rd. at Ridgeway  Ave.,43.51624314,-80.19596101,1
+516,Summerfield Dr. at Amsterdam Cres.,43.51757236,-80.19093581,1
+517,Summerfield Dr. at Cummings Crt.,43.51553966,-80.18860079,1
+518,Summerfield Dr. at Bright Lane,43.51647872,-80.18455521,1
+519,Summerfield Dr. at Victoria Rd. S.,43.51970374,-80.18002994,1
+520,Frederick Dr. at Waterford Dr. ,43.5149251,-80.17557642,1
+521,Goodwin Dr. at Ray Cres.,43.51171872,-80.17723049,1
+522,Goodwin Dr. at Orin Reid Park,43.50901923,-80.18075793,1
+523,Goodwin Dr. at Sinclair St.,43.50592494,-80.18488245,1
+524,Goodwin Dr. at Darling Cres. ,43.50435999,-80.18658604,1
+525,Goodwin Dr. at Eugene Dr. ,43.50313442,-80.18804354,1
+526,Farley Dr. at Porter Dr.,43.50450796,-80.19060063,1
+527,Pine Ridge Dr. at Periwinkle Way,43.50858985,-80.19255101,2
+528,Gordon St. at Lowes Rd.,43.50916325,-80.19564348,1
+529,Gordon St. at Continuing Education,43.51178773,-80.19693638,1
+530,Gordon St. at Arkell Rd. ,43.51399734,-80.19961067,1
+531,Gordon St. at Valley Rd.,43.51662897,-80.20324501,1
+532,Gordon St. at Landsdown Dr.,43.5184617,-80.20576156,1
+533,Gordon St. at Harts Lane,43.51961002,-80.20745561,1
+534,1030 Gordon St.,43.52088497,-80.21000748,1
+535,Gordon St. at Kortright Rd. ,43.5227148,-80.21372665,1
+536,Gordon St. at Hands Dr.,43.52426143,-80.21690809,1
+537,Gordon St. at Monticello Cres. ,43.52580281,-80.22181437,1
+538,University Centre,43.52961918,-80.22452658,1
+539,Gordon St. at Vet College,43.5309486,-80.23077806,1
+540,Gordon St. at Macdonald Stewart Art Centre,43.53282772,-80.23329697,1
+541,Gordon St. at Dormie Lane,43.53693352,-80.23918581,1
+542,Gordon St. at Water St.,43.53819782,-80.24097062,1
+543,Gordon St. at Wellington St.,43.54102407,-80.24516126,1
+544,Gordon St. at Harvey's,43.54183671,-80.24755119,1
+545,City Hall,43.54324467,-80.24903227,1
+546,Guelph Central Station,43.54573274,-80.24598349,1
+547,Victoria Rd. S at Katemore Dr.,43.517774,-80.176994,1
+600,University Centre,43.529524,-80.224506,1
+601,Gordon St. at Stone Rd. W. ,43.5273371,-80.22612088,2
+602,Gordon St. at Harvard Rd.,43.52544175,-80.22118988,1
+603,Harvard Rd. at Shakespeare Arms,43.52389783,-80.22384919,1
+604,Harvard Rd. at Princeton Pl.,43.52066849,-80.22833111,2
+605,Harvard Rd. at Youngman Dr. ,43.51810715,-80.22833225,1
+606,Edinburgh Rd. at Laurelwood Crt.,43.51753354,-80.23049538,1
+607,Stone Rd. W. at Stone Road Mall,43.5174938,-80.23717685,1
+608,Scottsdale Dr. at Stone Rd. W.,43.51474432,-80.23851319,1
+609,Scottsdale Dr. at Ironwood Rd. ,43.51370082,-80.23706125,1
+610,Ironwood Rd. at Steffler Park,43.51299258,-80.23520266,1
+611,Ironwood Rd. at Cole Rd.,43.51111749,-80.23507246,1
+612,Ironwood Rd. at Woodborough Rd.,43.50888594,-80.23297085,2
+613,Ironwood Rd. at Hilldale Cres.,43.5070917,-80.22989431,2
+614,Ironwood Rd. at Brookhaven Crt.,43.50567944,-80.22726351,2
+615,Ironwood Rd. at Kortright Rd. ,43.50750757,-80.22566788,2
+616,Scottsdale Dr. at Steffler Dr,43.50986356,-80.22796776,1
+617,711 Scottsdale Dr.,43.51235575,-80.23217687,1
+618,692 Scottsdale Dr.,43.51381574,-80.23694044,1
+619,Stone Rd. W. at Scottsdale Dr.,43.51472228,-80.2381917,1
+620,372 Stone Rd. W.,43.51615081,-80.23857634,1
+621,Stone Rd. W. at Edinburgh Rd. S. ,43.51759294,-80.23664911,1
+622,Youngman Dr. at Harvard Rd.,43.51947739,-80.23417144,1
+623,Harvard Rd. at Princeton Pl.,43.51792191,-80.22819719,1
+624,Harvard Rd. at Rickson Ave.,43.52068604,-80.22809991,1
+625,35 Harvard Ave. at Plaza,43.52239315,-80.22580149,1
+626,Gordon St. at Monticello Cres.,43.52421919,-80.22172003,1
+627,University Centre,43.52580193,-80.22181515,1
+700,University Centre,43.529524,-80.224506,1
+701,Gordon St. at Harvard Rd.,43.52733691,-80.22612181,1
+702,Gordon St. at Kortright Rd. ,43.52544175,-80.22118988,1
+703,Kortright Rd. at Yewholme Dr.,43.52231709,-80.21337023,1
+704,Kortright Rd. at Rickson Ave.,43.52025871,-80.21491042,1
+705,Kortright Rd. at Edinburgh Rd. S.,43.51702871,-80.21660909,1
+706,Kortright Rd. at Hanlon Creek Park,43.51356352,-80.22125584,1
+707,555 Kortright Rd.,43.51118904,-80.2248575,1
+708,Kortright Rd. at Hanlon Rd.,43.50925789,-80.2307549,1
+709,Downey Rd. at Woodland Glen Dr.,43.50697312,-80.23386646,1
+710,Niska Rd. opposite Tanager Dr.,43.50480688,-80.23842436,2
+711,Ptarmigan Dr. at Niska Rd.,43.50441597,-80.24234466,1
+712,Ptarmigan Dr. at Pheasant Run Dr.,43.50329834,-80.24610114,1
+713,Ptarmigan Dr. at Downey Rd.,43.49964184,-80.24417649,1
+714,Downey Rd. at Hazelwood Dr.,43.49975921,-80.23798457,2
+715,Downey Rd. at Niska Rd. ,43.50216838,-80.23896564,1
+716,Kortright Rd. at Hanlon Rd.,43.50488193,-80.23794915,1
+717,Kortright Rd. at Plaza,43.50696448,-80.23349252,1
+718,Kortright Rd. at Hanlon Creek Park,43.50902989,-80.23065961,1
+719,Kortright Rd. at Edinburgh Rd. S.,43.51112555,-80.22438893,1
+720,Kortright Rd. at Rickson Ave.,43.51432482,-80.2198543,1
+721,Kortright Rd. opposite Yewholme Dr.,43.51644254,-80.21701728,2
+722,Gordon St. at Kortright Rd.,43.52010925,-80.21467996,1
+723,Gordon St. at Hands Dr.,43.52271347,-80.21373563,1
+724,Gordon St. at Monticello Cres.,43.52426186,-80.21690797,1
+725,University Centre,43.5258016,-80.22181629,1
+800,Guelph Central Station,43.54559036,-80.24547607,1
+801,Wyndham St. at Farquhar St.,43.54338249,-80.24587839,1
+802,Wellington St. at KFC,43.54227848,-80.24397492,2
+803,Gordon St. at Water St.,43.53830009,-80.24138079,1
+804,Water St. at McCrae Blvd.,43.53622969,-80.24506156,2
+805,Water St. at Maple St.,43.53514786,-80.24655855,1
+806,Maple St. at Forest St.,43.53199877,-80.24369592,1
+807,Forest St. at Park,43.53020651,-80.2459077,1
+808,Edinburgh Rd. S. at Maplewood Dr.,43.52740328,-80.24453428,1
+809,College Ave. W. at Edinburgh Rd.,43.52502452,-80.24237143,2
+810,College Ave. W. at Centennial ,43.52153849,-80.24710319,1
+811,129 Janefield Ave.  ,43.51792203,-80.24565667,1
+812,Janefield Ave. at Scottsdale Dr.,43.51679325,-80.24099315,2
+813,Stone Road Mall,43.51880734,-80.23910871,1
+814,Scottsdale Dr. at Wilsonview Ave. ,43.52089102,-80.23975299,1
+815,220 Scottsdale Dr.,43.52176569,-80.24199052,1
+816,Scottsdale Dr. at College Ave. W.,43.52326935,-80.24356132,1
+817,College Ave. W. at Meadowcroft,43.52431378,-80.24298291,1
+818,Edinburgh Rd. S. at Floral Dr.,43.52656697,-80.24303092,2
+819,Edinburgh Rd. S. at Lockyer Rd.,43.52874199,-80.24608536,2
+820,Edinburgh Rd. S. at Municipal St. ,43.52996712,-80.24780297,1
+821,Edinburgh Rd. S. at Honey Cres.,43.53237981,-80.25116625,1
+822,Bristol St. at McGee St. ,43.53584121,-80.25350721,1
+823,Yorkshire St. S. at Waterloo Ave.,43.53804181,-80.25302784,1
+824,Waterloo Ave. at Glasgow St. ,43.53906473,-80.25211203,1
+825,Waterloo Ave. at Norfolk St.,43.54142665,-80.24960649,1
+826,Guelph City Hall,43.54338333,-80.24917093,1
+827,Guelph Central Station,43.54518,-80.24605,1
+900,Guelph Central Station,43.54493364,-80.24616412,1
+901,3 Waterloo Ave.,43.54142544,-80.24984889,2
+902,Waterloo Ave. at Glasgow St. ,43.53913502,-80.25229783,2
+903,Waterloo Ave. at Yorkshire St. S. ,43.53800047,-80.25351734,1
+904,225 Waterloo Ave. ,43.53521755,-80.25650181,1
+905,Waterloo Ave. at Beachwood Ave. ,43.53213824,-80.25977447,1
+906,387 Waterloo Ave.,43.53104034,-80.26094134,1
+907,659 Wellington St. N. ,43.52281857,-80.26765188,1
+908,Imperial Rd. S. at Wellington St. N.,43.52086782,-80.26936202,1
+909,Imperial Rd. S. at Stephanie Dr. ,43.52335048,-80.27589873,2
+910,Imperial Rd. S. at Deerpath Dr. ,43.52532244,-80.28002764,1
+911,Imperial Rd. S.  at Paisley St. ,43.52544918,-80.28512304,2
+912,Paisley Rd. at Zehrs,43.5224856,-80.28809113,1
+913,Stephanie Dr. at Hollyberry Pl,43.52232058,-80.28158072,2
+914,Stephanie Dr. at Imperial Rd.,43.52318608,-80.27619011,2
+915,Imperial Rd. at West Acres Dr.,43.52224398,-80.27376996,1
+916,Imperial Rd. S. at Tim Hortons,43.52062525,-80.26910904,1
+917,Wellington St. W. at Wastewater Treatment Plant,43.52285941,-80.2672506,1
+918,364 Waterloo Rd.,43.53117376,-80.26056721,1
+919,Waterloo Ave. at St. Arnaud St.,43.53360406,-80.25797745,1
+920,180 Waterloo Ave. ,43.53644434,-80.25493657,2
+921,Waterloo Ave. at Glasgow St. ,43.53906525,-80.25211208,1
+922,Waterloo Ave. at Norfolk  St. ,43.54200765,-80.24894881,1
+923,Guelph City Hall,43.54339691,-80.24918559,1
+924,Guelph Central Station,43.54518,-80.24605,1
+1000,Guelph Central Station,43.54614437,-80.24494841,1
+1001,Quebec St. at B.M.O.,43.54585975,-80.24988613,1
+1002,Paisley St. at Library,43.54539517,-80.25293609,1
+1003,Paisley St. at Glasgow St.,43.54349654,-80.25674195,1
+1004,Paisley St. at G.C.V.I.,43.54242912,-80.25881413,1
+1005,Paisley St. at Harrison Ave.,43.54153604,-80.26056663,1
+1006,Paisley St. at Edinburgh Rd. N.,43.54069636,-80.26317873,1
+1007,Paisley Rd. at Alma St.,43.53892245,-80.26560127,1
+1008,Paisley Rd. at Western Ave.,43.53647722,-80.26894324,2
+1009,Paisley Rd. at Heath Rd.,43.53468315,-80.27141131,2
+1010,Westwood Rd. at Silvercreek Pkwy. N.,43.53541488,-80.27501994,1
+1011,85 Westwood Rd. ,43.5327441,-80.27890125,1
+1012,225 Westwood Rd. ,43.53277511,-80.28521097,1
+1013,Willow Rd. at Westwood Rd.,43.53338462,-80.28806863,1
+1014,577 Willow Rd. at Church,43.53141427,-80.29067842,1
+1015,Imperial Rd. S. at Ferman Dr. ,43.52759667,-80.29063151,1
+1016,West End Community Centre,43.5247302,-80.29149112,1
+1017,926 Paisley Rd. ,43.52575789,-80.28548811,1
+1018,Paisley Rd. at Candlewood Dr.,43.52869914,-80.27998461,2
+1019,Paisley Rd. at West Hill Estates,43.53090258,-80.27605839,1
+1020,Paisley Rd. at Heath Rd.,43.53448423,-80.27147682,1
+1021,Paisley Rd. at Goldie Ave.,43.53692243,-80.26811612,2
+1022,Paisley Rd. at Alma St.,43.53876468,-80.26561992,1
+1023,Paisley Rd. at Edinburgh Rd. N.,43.54046601,-80.26328276,1
+1024,Paisley St. at Yorkshire St. N. ,43.54250057,-80.25840142,1
+1025,Paisley St. at Glasgow St. ,43.54328837,-80.25685892,1
+1026,Paisley St. at Norfolk St. ,43.54515937,-80.25315455,1
+1027,"St George's Square, IF Shoe store",43.54554766,-80.24898261,1
+1028,Guelph Central Station,43.54578364,-80.24581933,1
+1100,Guelph Central Station,43.54513106,-80.24603712,1
+1101,Norfolk St. at Albion,43.54388776,-80.25052455,1
+1102,Suffolk St. W. at Norfolk St. ,43.54735029,-80.25496677,1
+1103,Suffolk St. W. at Dublin St.,43.54642285,-80.25678018,1
+1104,Suffolk St. W. at Glasgow St.,43.54555782,-80.25847692,1
+1105,Suffolk St. W. at Yorkshire St. N.,43.54427617,-80.26079978,1
+1106,Suffolk St. W. at Edinburgh Rd. N. ,43.54258683,-80.26413777,2
+1107,Edinburgh Rd. N. at Mercer St.,43.54289998,-80.26537864,2
+1108,Willow Rd. at Dawson Rd.,43.54539744,-80.27152527,1
+1109,Dawson Rd. at Shelldale Cres.,43.546607,-80.27523561,2
+1110,Dawson Rd. at Dawson Road Medical Clinic,43.54886429,-80.2784386,1
+1111,229 Speedvale Ave. W.,43.54781503,-80.28299766,2
+1112,Speedvale Ave. W. at Silvercreek Pkwy. N.,43.54505483,-80.28683221,2
+1113,361 Speedvale Ave. W. ,43.54255729,-80.2901993,2
+1114,177 Marksam Rd.,43.53931145,-80.29082244,1
+1115,145 Marksam Rd. ,43.53786862,-80.28890707,1
+1116,76 Marksam Rd. ,43.53701063,-80.28326697,1
+1117,Willow Rd. at Silvercreek Pkwy.,43.54024865,-80.27827391,1
+1118,158 Willow Rd.,43.5426487,-80.27499557,2
+1119,66 Willow Rd. ,43.54351553,-80.27380459,1
+1120,26 Willow Rd. ,43.54519072,-80.27148572,1
+1121,200 Edinburgh Rd. N.,43.54220191,-80.26476577,2
+1122,Paisley St. at Yorkshire St. N.,43.54251033,-80.2584149,1
+1123,Paisley St. at Glasgow St. ,43.54329046,-80.25688206,1
+1124,Paisley St. at Norfolk St. ,43.54515089,-80.25317709,1
+1125,Guelph Central Station,43.54576657,-80.24575858,1
+1130,"St George's Square, IF Shoe store",43.5455503,-80.24897744,1
+1131,Marksham Rd. south of Speedvale Ave. W.,43.5407,-80.292026,2
+1200,Guelph Central Station,43.54570223,-80.24550064,1
+1201,Wyndham St. at Bank of Nova Scotia,43.54631526,-80.24937027,1
+1202,Eramosa Rd. Bridge,43.54916673,-80.25036278,1
+1203,Delhi St. at Eramosa Rd.,43.55343581,-80.25042293,1
+1204,Delhi St. at Guelph General Hospital,43.55548448,-80.25326897,1
+1205,Delhi St. at Homewood Health Centre,43.55802367,-80.2568144,1
+1206,Delhi St. at Emma St. ,43.55973008,-80.25912132,1
+1207,Emma St. at Metcalfe St. ,43.56195263,-80.25666043,2
+1208,Emma St. at Stevenson St. ,43.56344559,-80.25462216,1
+1209,Speedvale Ave. E. at Stevenson St. ,43.56624689,-80.25732919,1
+1210,Speedvale Ave. E. at Renfield St.,43.56898102,-80.25356996,1
+1211,Speedvale Ave. E. at Acorn Pl.,43.57020368,-80.25188988,1
+1212,Victoria Rd. N. at Speedvale Ave. E.,43.57175029,-80.25147118,1
+1213,Victoria Rd. N. at Brant Ave.,43.57532046,-80.25639422,1
+1214,Woodlawn Rd. E. at Victoria Rd. N.,43.57737369,-80.2605761,1
+1215,Windsor St. at Kingsley Crt.,43.57295763,-80.2607283,1
+1216,Waverly Dr. at Stevenson St.,43.57007234,-80.26253885,1
+1217,Metcalfe St. at Waverley Dr. ,43.56804646,-80.26461374,1
+1218,Metcalfe St. at Shaftesbury Ave.,43.56595096,-80.26173507,2
+1219,Metcalfe St. at Speedvale  Ave.,43.56454095,-80.26009327,1
+1220,Speedvale Ave. at Clive Ave.,43.56307591,-80.26198354,1
+1221,Delhi St. at Phillip Ave.,43.56125739,-80.26152853,1
+1222,Delhi St. at Emma St. ,43.5597552,-80.2594273,1
+1223,Delhi St. at Homewood Health Centre,43.55747006,-80.25624196,1
+1224,Delhi St. at Spring St.,43.55538062,-80.25335215,1
+1225,Delhi St. at Eramosa Rd.,43.55316187,-80.25027655,2
+1226,Eramosa Rd. at Arthur St. ,43.54914883,-80.25058044,1
+1227,Wyndham at IF Shoe Store,43.54556146,-80.24898218,1
+1228,Guelph Central Station,43.54562227,-80.24550881,1
+1300,Guelph Central Station,43.54559316,-80.24556607,1
+1301,Wyndham St. at Bank of Nova Scotia,43.54631779,-80.24937008,1
+1302,Eramosa Rd. Bridge,43.54916758,-80.25036478,1
+1303,Eramosa Rd. at St. Catharines St.,43.55563748,-80.24950862,1
+1304,Metcalfe St. at Eramosa Rd.,43.55654041,-80.24885325,1
+1305,Metcalfe St. at Lemon St.,43.55455915,-80.24609797,1
+1306,Metcalfe St. at Palmer St.,43.55304935,-80.2439835,1
+1307,Metcalfe St. at Grange St.,43.55169484,-80.2420968,2
+1308,Grange St. at Clara St.,43.55238252,-80.24084362,1
+1309,Grange St. at Louisa St,43.55368331,-80.23910843,1
+1310,Grange St. at Stevenson St.,43.55486192,-80.23755536,2
+1311,Cassino Ave. at William St. ,43.55824184,-80.24001155,2
+1312,Cassino Ave. at Palermo Cres.,43.56142837,-80.2358584,1
+1313,Cassino Ave. at Hadati Rd.,43.56283178,-80.23472363,1
+1314,Hadati Rd. at Yeats Crt.,43.56396114,-80.23676323,1
+1315,Hadati Rd. at Victoria Rd. N.,43.56393082,-80.24034086,1
+1316,Eastview Rd. at Glenburnie Dr.,43.565304,-80.24128497,1
+1317,Eastview Rd. at Mountford Dr.,43.56736856,-80.2385027,1
+1318,Starwood Dr. at Watt St.,43.56881435,-80.23129739,1
+1319,Watt St. at Auden Rd.,43.56778825,-80.23205484,1
+1320,Auden Rd. at Eastview Rd.,43.56935999,-80.23562502,1
+1321,Eastview Rd. at Mountford Dr.,43.56744214,-80.23871634,2
+1322,Eastview Rd. at VictoriaRd. ,43.56508478,-80.241933,2
+1323,Victoria Rd. N. at Greenview St. ,43.56661717,-80.24430153,1
+1324,Eramosa Rd. at Orchard Cres.,43.56745766,-80.24801953,1
+1325,Eramosa Rd. at Meyer Dr.,43.56238562,-80.24874436,1
+1326,Eramosa Rd. at Stevenson St.,43.55962712,-80.24914142,1
+1327,Eramosa Rd. at Metcalfe St.,43.55658934,-80.24958179,1
+1328,Eramosa Rd. at Arthur St.,43.54969047,-80.2505028,1
+1329,Wyndham at IF Shoe Store,43.54558381,-80.24902439,1
+1330,Guelph Central Station,43.54495234,-80.24617807,1
+1400,Guelph Central Station,43.54573274,-80.24598349,1
+1401,Elizabeth St. at Duke St.,43.5479671,-80.24163316,1
+1402,65 Elizabeth St.,43.54914741,-80.24003612,2
+1403,Elizabeth St. at Morris St.,43.55090698,-80.23768024,1
+1404,Elizabeth St. at Stevenson St.,43.55280752,-80.23513538,1
+1405,Elizabeth St. at Victoria Rd. N.,43.55518598,-80.22986738,1
+1406,Grange Rd. at Victoria Rd. N.,43.5582869,-80.23127677,1
+1407,Grange Rd. at Schroder Cres.,43.5598735,-80.22710493,1
+1408,Grange Rd. at Breesgarden Lane,43.56413591,-80.22294005,1
+1409,Grange Rd. at Ralston Dr.,43.56744186,-80.22254621,1
+1410,Grange Rd. at Ken Danby School,43.57057564,-80.22173511,1
+1411,Watson Pkwy. N. South of Grange Rd.,43.57345874,-80.21824957,1
+1412,Watson Pkwy. N. at Fleming Rd.,43.57048866,-80.21387973,2
+1413,Watson Pkwy. N. at Library,43.56672945,-80.21174647,1
+1414,Starwood Dr. at Fleming Rd.,43.56648486,-80.21793153,1
+1415,Starwood Dr. at Ralston Dr. ,43.56674897,-80.22108823,1
+1416,Grange Rd. at Silurian Dr. ,43.56565907,-80.22303788,1
+1417,Grange Rd. at Auden Rd.,43.5604901,-80.22649637,2
+1418,Grange Rd. at St. James Park,43.55903357,-80.22859076,1
+1419,Victoria Rd. N. at Grange Rd.,43.55716753,-80.23134698,1
+1420,Elizabeth St. at Victoria Rd. N.,43.55529267,-80.23025998,1
+1421,Elizabeth St. at Stevenson St. ,43.5533796,-80.23463511,1
+1422,Elizabeth St. at Morris St. ,43.55140196,-80.23723008,1
+1423,Elizabeth St. at Huron St.,43.55001259,-80.23906454,1
+1424,Elizabeth St. at Red Chevron Club,43.54855768,-80.24102322,1
+1425,Guelph Central Station,43.54604734,-80.2450796,1
+1500,University Centre,43.52868599,-80.22343254,1
+1501,Stone Rd. W. at Gordon St. ,43.52616976,-80.22553592,1
+1502,Stone Rd. W. at Fire Hall,43.52407971,-80.22833315,1
+1503,Stone Rd. W. at Target,43.52202731,-80.23114413,1
+1504,Stone Rd. W. Edinburgh Rd. S.,43.52038966,-80.23332347,1
+1505,Stone Rd. W. at Stone Rd Mall,43.51749477,-80.2372089,1
+1506,Stone Rd. W. at Scottsdale Dr.,43.51591434,-80.23932981,1
+1507,Stone Rd. W at Woodland Glen Dr.,43.50991362,-80.24729488,2
+1508,College Ave. W. at Flanders Rd.,43.51055866,-80.25021229,1
+1509,College Ave. W. at Conroy Cres.,43.5117367,-80.25278498,1
+1510,College Ave. W. at Argyle Dr.,43.51393171,-80.25619632,1
+1511,506 College Ave. W.,43.51611258,-80.25421463,2
+1512,College Ave. W. east of Hanlon,43.52004243,-80.24879817,1
+1513,129 Janefield Ave.,43.51793265,-80.24566807,1
+1514,Janefield Ave. at Scottsdale Dr.,43.5167755,-80.24103068,2
+1515,Stone Road Mall Depart,43.51879815,-80.2391267,1
+1516,Scottsdale Dr. at Wilsonview Ave.,43.5209101,-80.23978097,1
+1517,Wilsonview Ave.,43.52203759,-80.23880045,1
+1518,Edinburgh Rd at Chancellors Way,43.52149683,-80.23625338,1
+1519,Stone Rd. opposite Target,43.52163467,-80.23127072,1
+1520,95 Stone Rd. W.,43.52467654,-80.22719293,1
+1521,University Centre,43.530139,-80.22567,1
+1600,Guelph Central Station,43.5462483,-80.24497581,2
+1601,Wellington St. at KFC,43.54227179,-80.24396986,1
+1602,Gordon St. at Water St.,43.53830319,-80.24139752,1
+1603,Gordon St. at Forbes Ave.,43.5371613,-80.23979801,1
+1604,Gordon St. at Dean Ave.,43.5341088,-80.23555677,1
+1605,Gordon St. at College Ave.,43.53170057,-80.232121,1
+1606,Gordon St. at Stone Rd. W.,43.5273453,-80.22613893,2
+1607,Gordon St. at Harvard Rd. ,43.52543904,-80.22118965,1
+1608,Gordon St. at Kortright Rd. ,43.52234962,-80.21345213,2
+1609,Gordon St. at Harts Lane,43.51953643,-80.20772965,1
+1610,1155 Gordon St. ,43.51815737,-80.2057426,1
+1611,Gordon St. at Edinburgh Rd. S.,43.51659112,-80.2036012,1
+1612,Gordon @ Arkell,43.51389936,-80.19990047,1
+1613,1417Gordon,43.51179479,-80.19722839,1
+1614,Gordon @Lowes,43.50891733,-80.19582765,1
+1615,Gordon @ Clairfields,43.50519174,-80.19437184,1
+1616,25 Clairfields,43.50373431,-80.19605614,1
+1617,Opposite 116 Clairfields,43.49868116,-80.19944642,1
+1618,Clairfields @ Boulder CR.,43.49644248,-80.19786398,1
+1619,Laird Rd. at Clair Rd. W.,43.49289922,-80.19992048,2
+1620,Southgate Dr. at Laird Rd. ,43.49495828,-80.20758256,2
+1621,125 Southgate Dr.,43.49767951,-80.21116603,2
+1622,180 Southgate Dr.,43.49937341,-80.21268097,2
+1623,310 Southgate Dr.,43.50206157,-80.21699761,2
+1624,450 Southgate Dr.,43.49935368,-80.21933354,2
+1625,525 Southgate Dr.,43.49643779,-80.21648447,2
+1626,595 Southgate Dr.,43.49455076,-80.21389721,2
+1627,679 Southgate Dr.,43.49306904,-80.20995516,2
+1628,Southgate Dr. at Corporate Rd.,43.49189799,-80.20834262,2
+1629,Southgate Dr. at Admiral Pl.,43.49060831,-80.20652113,2
+1630,829 Southgate Dr.,43.48964253,-80.20404233,2
+1631,300 Clair (Water Tower),43.49255053,-80.20005695,2
+1632,Bishop Macdonell High School,43.49552026,-80.19520584,1
+1633,Gosling Gardens at Clair Rd. W.,43.49928999,-80.19154365,1
+1634,Gosling Garden Park,43.5013149,-80.1929509,2
+1635,Gosling Garden at Clairfields Dr. W. ,43.50348737,-80.19588367,1
+1636,Gordon St. at Westminster Woods,43.50573838,-80.19429516,1
+1637,Gordon @ Lowes,43.50912871,-80.19561043,1
+1638,Gordon St. at Continuing Education,43.51174152,-80.19687972,1
+1639,Gordon St. at Arkell Rd. ,43.51400808,-80.19962968,1
+1640,Gordon St. at Valley Rd.,43.51662322,-80.20323103,1
+1641,Gordon St. at Landsdown Dr.,43.51847832,-80.20578266,1
+1642,Gordon St. at Harts Lane,43.51960611,-80.20741157,1
+1643,1030 Gordon St.,43.52086993,-80.20996508,1
+1644,Gordon St. at Kortright Rd. ,43.52237814,-80.2130396,1
+1645,Gordon St. at Hands Dr.,43.52424327,-80.21686318,1
+1646,Gordon St. at Monticello Cres. ,43.52577792,-80.22175491,1
+1647,Gordon St. at South Ring Rd.,43.52756501,-80.22600064,1
+1648,Gordon St. at Vet College,43.53093304,-80.23077444,1
+1649,Gordon St. at Macdonald Stewart Art Centre,43.53280951,-80.23326567,1
+1650,Gordon St. at Dormie Lane,43.53694933,-80.23920332,1
+1651,Gordon St. at Water St.,43.5382034,-80.24098329,1
+1652,Wellington St. at Wellington Plaza ,43.54191661,-80.24386551,1
+1653,Wyndham St. at Fountain St.,43.54341693,-80.24535813,1
+1654,Guelph Central Station,43.54513974,-80.24603139,1
+2000,Guelph Central Station,43.54500418,-80.24626565,1
+2001,Woolwich St. at Norwich St. E.,43.54878505,-80.25493817,1
+2002,221 London Rd. New Stop,43.54541986,-80.27151309,2
+2003,Willow Rd. at Dawson Rd.,43.54281965,-80.27510896,1
+2004,Willow Rd. at Willow Road P.S,43.53979392,-80.27926574,1
+2005,Willow West Mall,43.53393184,-80.2873023,1
+2006,Willow Rd. at Marksham Rd. New Stop,43.53139354,-80.29069484,2
+2007,Willow Rd. at Westwood Public School,43.52761766,-80.29658203,1
+2008,Willow Rd. at Westwood Rd. New Stop,43.53056806,-80.30363281,2
+2009,577  Willow Rd. at Church,43.53278769,-80.30632807,2
+2010,Willow Rd. at Flaherty Dr.,43.53494816,-80.30924292,2
+2011,Elmira Rd N. at Flaherty Dr.,43.53791211,-80.31334306,1
+2012,Elmira Rd. N. at Independence Pl.,43.53577791,-80.31787281,2
+2013,Elmira Rd. at Massey Rd.,43.53345782,-80.32229138,2
+2014,Elmira Rd. at Power Corp,43.53613408,-80.32258822,2
+2015,925 Woodlawn Rd. ,43.53756602,-80.32055741,2
+2016,Across from 498 Governors Rd. ,43.53873713,-80.31891603,2
+2017,110 Malcolm Rd. ,43.54009734,-80.31702372,2
+2018,14 Malcolm Rd.,43.53376234,-80.31900178,2
+2019,2 Malcolm Rd. ,43.53124537,-80.31556893,2
+2020,450 Michener Rd. ,43.53211407,-80.31370412,2
+2021,Michener Rd. at Minto Rd. New Stop,43.53440594,-80.31042187,2
+2022,530 Massey Rd. ,43.53634511,-80.30772284,2
+2023,446 Massey Rd.,43.5390337,-80.30399659,2
+2024,400 Massey Rd. ,43.54049988,-80.30201561,2
+2025,265 Massey Rd. ,43.54509763,-80.30773292,2
+2026,Across from 251 Massey Rd.,43.54930269,-80.30619927,2
+2027,Imperial Rd. at Woodlawn Rd. W ,43.55374971,-80.30009782,2
+2028,Imperial Opposite Galaxy Cinema New Stop,43.55082532,-80.29562902,2
+2029,190 Curtis Dr. ,43.54781121,-80.29139979,2
+2030,Curtis Dr.  at Regal Rd. Needs Hardware,43.545669,-80.2884449,2
+2031,Curtis Dr. at Silvercreek Pkwy.,43.54287882,-80.28457989,2
+2032,Silvercreek Pkwy. past Woodlawn Rd.,43.53979061,-80.28029973,1
+2033,Silvercreek Pkwy N. at Campbell Rd.,43.54019833,-80.27832863,2
+2034,254 Silvercreek Pkwy.,43.54271646,-80.27492338,2
+2035,214 Silvercreek Pkwy. ,43.54394429,-80.27320527,1
+2036,130 Silvercreek Pwky.,43.54517459,-80.27150857,2
+2037,Opposite Willow West Mall,43.54227677,-80.26486958,1
+2038,158 Willow Rd.,43.54246125,-80.25848435,2
+2039,66 Willow Rd.,43.54352106,-80.25639783,1
+2040,26 Willow Rd.,43.54526981,-80.25254936,1
+2041,200 Edinburgh Rd. N.,43.54554486,-80.24898285,2
+2042,Paisley St. at Yorkshire St. N.,43.542622,-80.258259,1
+2043,Paisley St. at Glasgow St. ,43.543326,-80.256844,1
+2044,Paisley St. at Norfolk St.  ,43.54539,-80.252122,1
+2045,"St George's Square, IF Shoe store",43.545578,-80.249017,1
+2046,Guelph Central Station,43.54518,-80.24605,1
+5000,University Dep,43.529524,-80.224506,1
+5001,Stone Rd. W. at Gordon St. ,43.52993583,-80.22496647,1
+5002,Stone Rd. W. at Fire Hall,43.52405,-80.228457,1
+5003,Stone Rd. W. at Zellers,43.52616133,-80.2255375,1
+5004,Stone Rd. W. Edinburgh Rd. S.,43.5240652,-80.22836141,1
+5005,Stone Rd. W. at Stone Rd Mall,43.52204283,-80.23114714,1
+5006,Stone Rd. W. at Scottsdale Dr.,43.52036554,-80.23335318,1
+5007,Stone Rd Mall,43.5174938,-80.23717685,1
+5008,Scottsdale Dr. at Wilsonview Ave.,43.51590617,-80.23930203,1
+5009,Wilsonview Ave.,43.5190299,-80.23915911,1
+5010,Edinburgh Rd at Chancellors Way,43.52091541,-80.23976313,1
+5011,Stone Rd. opposite Zellers,43.52202265,-80.23881158,1
+5012,95 Stone Rd. W.,43.52149586,-80.23624652,1
+5013,University Centre,43.52163401,-80.2312634,1
+5600,University Dep,43.52906346,-80.22384104,1
+5601,Stone at Victoria,43.53959852,-80.2072394,2
+5602,1035 Victoria,43.53349043,-80.19852499,2
+5603,Victoria @ Summerfield,43.5199824,-80.18012912,2
+5604,Frederick Dr. at Waterford Dr. ,43.5149383,-80.17552784,1
+5605,264 Colonial,43.51634167,-80.17971208,1
+5606,Colonial North of Marsh,43.51949481,-80.18433006,1
+5607,Colonial north of Bard Bv.,43.52082876,-80.18687969,1
+5608,Gordon St. at Arkell Rd. ,43.51398773,-80.1995994,1
+5609,Gordon @ Valley,43.51658966,-80.20318579,1
+5610,Gordon St. at Landsdown Dr.,43.5184521,-80.20575349,1
+5611,Gordon St. at Harts Lane,43.51959377,-80.20740115,1
+5612,1030 Gordon St.,43.52085831,-80.20995189,1
+5613,Gordon St. at Kortright Rd. ,43.52239796,-80.21307276,1
+5614,Gordon @ Hands,43.52425072,-80.21687132,1
+5615,Gordon St. at Monticello Cres. ,43.52578363,-80.22175699,1
+5616,University Arr,43.54518,-80.24605,1
+5617,Victoria at Arkell,43.52414366,-80.18583394,2
+5618,Victoria Rd. S at Katemore Dr.,43.517774,-80.176994,1
+5700,University Dep,43.5300871,-80.22514689,1
+5701,Gordon St. at Stone Rd. W. ,43.52734677,-80.22615966,2
+5702,Gordon St. at Harvard Rd.,43.52544175,-80.22118988,1
+5703,Harvard Rd. at Shakespeare Arms,43.52403582,-80.2228434,1
+5704,Harvard Rd. at Princeton Pl.,43.5204771,-80.22858985,2
+5705,Harvard Rd. at Youngman Dr. ,43.51812986,-80.22837459,2
+5706,Ironwood Rd. at Reid Crt.,43.51523937,-80.23184091,2
+5707,711 Scottsdale Dr.,43.51304815,-80.23445164,1
+5708,632 Scottsdale Dr.,43.51324305,-80.2355045,1
+5709,Scottsdale @ Stone,43.51475093,-80.23819991,1
+5710,372 Stone Rd. W.,43.51614704,-80.2385857,1
+5711,Stone Rd. W. at Edinburgh Rd. S. ,43.51758919,-80.23664118,1
+5712,Stone Rd. opposite Zellers,43.51946083,-80.23418163,1
+5713,95 Stone Rd. W.,43.52163401,-80.2312634,1
+5714,University Arr,43.52467,-80.22718783,1
+5800,University Dep,43.52993825,-80.2249667,1
+5801,Stone Rd. W. at Gordon St. ,43.52616133,-80.2255375,1
+5802,Stone Rd. W. at Fire Hall,43.52409119,-80.22834502,1
+5803,Stone Rd. W. at Zellers,43.52204283,-80.23114714,1
+5804,583 Edinburgh Rd. S.,43.51649308,-80.22924536,2
+5805,685 Edinburgh Rd. S.,43.51569383,-80.22375803,2
+5806,Kortright Rd. at Edinburgh Rd. S.,43.51428978,-80.2198898,1
+5807,Kortright Rd. at Rickson Ave.,43.51654354,-80.21686687,1
+5808,Kortright Rd. opposite Yewholme Dr.,43.51974786,-80.21478208,2
+5809,Gordon St. at Kortright Rd.,43.52240977,-80.21307925,1
+5810,Gordon St. at Hands Dr.,43.5242512,-80.21686896,1
+5811,Gordon St. at Monticello Cres.,43.52579309,-80.22175613,1
+5812,University Centre,43.529524,-80.224506,1

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <TextView
+        android:padding="10dp"
+        android:id="@+id/routeID"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="Route Name:"
+        android:textSize="20sp"
+        android:textColor="@android:color/holo_blue_dark" />
+
+    <TextView
+        android:padding="10dp"
+        android:id="@+id/time"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="Current Time:"
+        android:textSize="20sp"
+        android:textColor="@android:color/holo_blue_dark"  />
+
+    <TextView
+        android:padding="10dp"
+        android:id="@+id/nextbus"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="Next Bus:"
+        android:textSize="20sp"
+        android:textColor="@android:color/holo_blue_dark" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/timesList"
+            android:scrollbars="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+</LinearLayout>
